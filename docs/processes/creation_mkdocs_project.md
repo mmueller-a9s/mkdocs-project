@@ -1,5 +1,9 @@
 # create a mkdocs project
 
+## requirements for Github Page
+* The repository must either be public or have a payed plan (Gitlab would work for free)
+* The mkdocs project must be the root of the repo
+
 ## create a new mkdocs project and deploy it to Github
 ```
 mkdocs new mkdocs-project
